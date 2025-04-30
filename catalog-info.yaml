@@ -4,8 +4,8 @@ metadata:
   name: flogo-deploy-dp          # minuscole!
   description: "Jenkins Job"
   annotations:
-    jenkins.io/job-full-name: 'flogo-deploy-dp'            # o folder/job/flogo-deploy-dp
-    jenkins.io/job-url: "https://commissioners-louis-appraisal-pure.trycloudflare.com/job/flogo-deploy-dp/"
+    jenkins.io/job-full-name: 'flogo-dp/flogo-deploy-dp'            # o folder/job/flogo-deploy-dp
+    jenkins.io/job-url: "https://commissioners-louis-appraisal-pure.trycloudflare.com/job/flogo-dp/job/flogo-deploy-dp/"
     sonarqube.org/project-key: 'my-real-project-key'       # <-- cambia qui
   links:
     - url: https://commissioners-louis-appraisal-pure.trycloudflare.com/
