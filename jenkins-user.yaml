@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jenkins-user
+  description: "Jenkins User - DevOps Engineer"
+spec:
+  profile:
+    displayName: "Jenkins User"
+    email: jenkins-user@example.com
+  memberOf: 
+    - group:default/team-dev
