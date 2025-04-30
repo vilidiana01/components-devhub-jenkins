@@ -4,7 +4,7 @@ metadata:
   name: Test #Nome componente
   description: "Jenkins Job" #Descrition componente
   annotations:
-    jenkins.io/job-full-name: 'Folder/Test' #cartella e job jenkins
+    jenkins.io/job-full-name: 'flogo-deploy-dp' #cartella e job jenkins
     jenkins.io/job-url: "https://commissioners-louis-appraisal-pure.trycloudflare.com/job/flogo-deploy-dp/" #url job di jenkins
     sonarqube.org/project-key: 'xxxxxx'
   links:
